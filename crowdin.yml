@@ -1,0 +1,3 @@
+files:
+  - source: /main/ua/**.resx
+    translation: /main/ua/%two_letters_code%/%original_file_name%
